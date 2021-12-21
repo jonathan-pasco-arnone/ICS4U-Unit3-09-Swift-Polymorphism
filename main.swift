@@ -18,7 +18,7 @@ let zeus: Bicycle = Bicycle(startColour: "Red", startMaxSpeed: 30,
                             startBasket: true)
 
 cheif.licensePlate = "B2J9VH"
-print("Cheif's license plaet is ", cheif.licensePlate)
+print("Cheif's license plate is ", cheif.licensePlate)
 
 print("Zeus has ", zeus.quantityWheels, " wheels.")
 
